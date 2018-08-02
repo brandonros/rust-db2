@@ -1,0 +1,9 @@
+[package]
+name = "rust-db2"
+version = "0.1.0"
+authors = ["Brandon Ros <brandonros1@gmail.com>"]
+
+[dependencies]
+odbc = "0.9.6"
+r2d2 = "0.8.2"
+r2d2_odbc = "0.1.0"
